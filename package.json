@@ -9,15 +9,15 @@
     "start": "node dist/app.js"
   },
   "dependencies": {
-    "@scalar/express-api-reference": "^0.4.189",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "@scalar/express-api-reference": "^0.8.45",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
   },
   "devDependencies": {
-    "@types/express": "^4.17.21",
-    "@types/node": "^20.14.2",
-    "nodemon": "^3.1.4",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.0",
+    "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.9.3"
   }
 }
