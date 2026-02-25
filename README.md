@@ -2,7 +2,7 @@
 
 A minimal Express + TypeScript API demonstrating how to set up **Scalar** for interactive API documentation — companion project for the Medium article:
 
-**[How to Add Beautiful, Interactive API Documentation to Your Node.js API Using Scalar](https://medium.com/@sandeshrathnayake)**
+**[How to Add Beautiful, Interactive API Documentation to Your Node.js API Using Scalar](https://sandeshrathnayake.medium.com/how-to-add-beautiful-interactive-api-documentation-to-your-node-js-api-using-scalar-84ee621c4eeb)**
 
 ---
 
